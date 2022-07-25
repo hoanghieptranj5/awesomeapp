@@ -5,7 +5,7 @@ using Repositories.Models.RoleRight;
 
 namespace AwesomeApp.Controllers;
 
-[Route("[controller]")]
+[Route("api/[controller]")]
 public class UserRoleController : ControllerBase
 {
     private readonly IUserRoleHandler _userRoleHandler;
