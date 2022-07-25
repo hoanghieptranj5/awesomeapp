@@ -1,6 +1,6 @@
 ﻿using AutoMapper;
+using RepoBase.Models.Hanzi;
 using TinhTienDienApp.Controllers.Models;
-using TinhTienDienApp.Repositories.Models.Hanzi;
 
 namespace TinhTienDienApp.Mappers;
 

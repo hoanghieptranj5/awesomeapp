@@ -1,7 +1,7 @@
 ﻿using Amazon.DynamoDBv2.DataModel;
+using RepoBase.Concrete.Electricity;
 using TinhTienDienApp.Helper;
 using TinhTienDienApp.Models;
-using TinhTienDienApp.Repositories.ConcreteRepo.Electricity;
 
 namespace TinhTienDienApp.Logics;
 

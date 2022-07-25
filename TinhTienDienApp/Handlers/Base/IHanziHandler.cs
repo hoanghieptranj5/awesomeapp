@@ -1,5 +1,5 @@
-﻿using TinhTienDienApp.Controllers.Models;
-using TinhTienDienApp.Repositories.Models.Hanzi;
+﻿using RepoBase.Models.Hanzi;
+using TinhTienDienApp.Controllers.Models;
 
 namespace TinhTienDienApp.Handlers.Base;
 

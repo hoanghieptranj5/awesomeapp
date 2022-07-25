@@ -22,6 +22,6 @@
         <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
     </ItemGroup>
     <ItemGroup>
-        <Folder Include="Repositories\ConcreteRepo" />
+      <ProjectReference Include="..\RepoBase\RepoBase.csproj" />
     </ItemGroup>
 </Project>

@@ -1,6 +1,6 @@
 ﻿using Amazon.DynamoDBv2.DataModel;
 
-namespace TinhTienDienApp.Repositories.Models.RoleRight;
+namespace RepoBase.Models.RoleRight;
 
 [DynamoDBTable("user")]
 public class User

@@ -1,6 +1,6 @@
 ﻿using Amazon.DynamoDBv2.DataModel;
 
-namespace TinhTienDienApp.Repositories.Models.Hanzi;
+namespace RepoBase.Models.Hanzi;
 
 [DynamoDBTable("hanzi")]
 public class Hanzi

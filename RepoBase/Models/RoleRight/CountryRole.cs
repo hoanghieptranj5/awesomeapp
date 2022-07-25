@@ -1,4 +1,4 @@
-﻿namespace TinhTienDienApp.Repositories.Models.RoleRight;
+﻿namespace RepoBase.Models.RoleRight;
 
 public class CountryRole
 {

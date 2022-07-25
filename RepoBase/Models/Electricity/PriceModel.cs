@@ -1,6 +1,6 @@
 ﻿using Amazon.DynamoDBv2.DataModel;
 
-namespace TinhTienDienApp.Repositories.Models.Electricity;
+namespace RepoBase.Models.Electricity;
 
 [DynamoDBTable("electricityPrice")]
 public class PriceModel

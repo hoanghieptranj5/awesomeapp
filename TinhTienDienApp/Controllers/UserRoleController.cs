@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using RepoBase.Models.RoleRight;
 using TinhTienDienApp.Controllers.Models;
 using TinhTienDienApp.Handlers.Base;
-using TinhTienDienApp.Repositories.Models.RoleRight;
 
 namespace TinhTienDienApp.Controllers;
 

@@ -1,6 +1,6 @@
 ﻿using AutoMapper;
+using RepoBase.Models.RoleRight;
 using TinhTienDienApp.Controllers.Models;
-using TinhTienDienApp.Repositories.Models.RoleRight;
 
 namespace TinhTienDienApp.Mappers;
 

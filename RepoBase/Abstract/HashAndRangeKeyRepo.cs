@@ -1,13 +1,13 @@
 ﻿using Amazon.DynamoDBv2.DataModel;
 using Amazon.DynamoDBv2.DocumentModel;
 
-namespace TinhTienDienApp.Repositories.Base;
+namespace RepoBase.Abstract;
 
-public class HanziBaseRepo<T, H, R>
+public class HashAndRangeKeyRepo<T, H, R>
 {
     private readonly IDynamoDBContext _context;
 
-    protected HanziBaseRepo(IDynamoDBContext context)
+    protected HashAndRangeKeyRepo(IDynamoDBContext context)
     {
         _context = context;
     }

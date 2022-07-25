@@ -1,5 +1,5 @@
-﻿using TinhTienDienApp.Controllers.Models;
-using TinhTienDienApp.Repositories.Models.RoleRight;
+﻿using RepoBase.Models.RoleRight;
+using TinhTienDienApp.Controllers.Models;
 
 namespace TinhTienDienApp.Handlers.Base;
 

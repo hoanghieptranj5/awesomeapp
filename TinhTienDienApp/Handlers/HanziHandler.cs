@@ -1,9 +1,9 @@
 ﻿using Amazon.DynamoDBv2.DataModel;
 using AutoMapper;
+using RepoBase.Concrete.Hanzi;
+using RepoBase.Models.Hanzi;
 using TinhTienDienApp.Controllers.Models;
 using TinhTienDienApp.Handlers.Base;
-using TinhTienDienApp.Repositories.ConcreteRepo.Hanzi;
-using TinhTienDienApp.Repositories.Models.Hanzi;
 
 namespace TinhTienDienApp.Handlers;
 

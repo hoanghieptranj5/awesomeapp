@@ -1,12 +1,12 @@
 ﻿using Amazon.DynamoDBv2.DataModel;
 
-namespace TinhTienDienApp.Repositories.Base;
+namespace RepoBase.Abstract;
 
-public class BaseRepo<T, H>
+public class HashKeyOnlyRepo<T, H>
 {
     private readonly IDynamoDBContext _context;
 
-    protected BaseRepo(IDynamoDBContext context)
+    protected HashKeyOnlyRepo(IDynamoDBContext context)
     {
         _context = context;
     }
