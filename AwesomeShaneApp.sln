@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TinhTienDienApp", "TinhTienDienApp\TinhTienDienApp.csproj", "{1816AEDE-7A8C-4415-A80B-04E8BE52941D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepoBase", "RepoBase\RepoBase.csproj", "{964FE873-A870-4516-A669-F3150654DB40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1816AEDE-7A8C-4415-A80B-04E8BE52941D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1816AEDE-7A8C-4415-A80B-04E8BE52941D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1816AEDE-7A8C-4415-A80B-04E8BE52941D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1816AEDE-7A8C-4415-A80B-04E8BE52941D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{964FE873-A870-4516-A669-F3150654DB40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{964FE873-A870-4516-A669-F3150654DB40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{964FE873-A870-4516-A669-F3150654DB40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{964FE873-A870-4516-A669-F3150654DB40}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
