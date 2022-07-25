@@ -1,4 +1,4 @@
-﻿using RepoBase.Models.RoleRight;
+﻿using Repositories.Models.RoleRight;
 
 namespace TinhTienDienApp.Controllers.Models;
 

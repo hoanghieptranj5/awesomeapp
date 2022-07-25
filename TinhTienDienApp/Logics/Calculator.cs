@@ -1,5 +1,5 @@
 ﻿using Amazon.DynamoDBv2.DataModel;
-using RepoBase.Concrete.Electricity;
+using Repositories.Concrete.Electricity;
 using TinhTienDienApp.Helper;
 using TinhTienDienApp.Models;
 

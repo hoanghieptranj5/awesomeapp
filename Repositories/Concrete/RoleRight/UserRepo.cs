@@ -1,8 +1,8 @@
 ﻿using Amazon.DynamoDBv2.DataModel;
-using RepoBase.Abstract;
-using RepoBase.Models.RoleRight;
+using Repositories.Abstract;
+using Repositories.Models.RoleRight;
 
-namespace RepoBase.Concrete.RoleRight;
+namespace Repositories.Concrete.RoleRight;
 
 public class UserRepo : HashKeyOnlyRepo<User, string>
 {

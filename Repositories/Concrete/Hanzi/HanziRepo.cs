@@ -1,7 +1,7 @@
 ﻿using Amazon.DynamoDBv2.DataModel;
-using RepoBase.Abstract;
+using Repositories.Abstract;
 
-namespace RepoBase.Concrete.Hanzi;
+namespace Repositories.Concrete.Hanzi;
 
 public class HanziRepo : HashAndRangeKeyRepo<Models.Hanzi.Hanzi, string, int>
 {

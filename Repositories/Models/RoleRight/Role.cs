@@ -1,6 +1,6 @@
 ﻿using Amazon.DynamoDBv2.DataModel;
 
-namespace RepoBase.Models.RoleRight;
+namespace Repositories.Models.RoleRight;
 
 [DynamoDBTable("role")]
 public class Role

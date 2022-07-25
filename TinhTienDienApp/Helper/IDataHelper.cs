@@ -1,4 +1,4 @@
-﻿using RepoBase.Models.Electricity;
+﻿using Repositories.Models.Electricity;
 
 namespace TinhTienDienApp.Helper;
 

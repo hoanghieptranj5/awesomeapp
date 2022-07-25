@@ -1,7 +1,7 @@
 ﻿using Amazon.DynamoDBv2.DataModel;
 using AutoMapper;
-using RepoBase.Concrete.Hanzi;
-using RepoBase.Models.Hanzi;
+using Repositories.Concrete.Hanzi;
+using Repositories.Models.Hanzi;
 using TinhTienDienApp.Controllers.Models;
 using TinhTienDienApp.Handlers.Base;
 

@@ -1,8 +1,8 @@
 ﻿using Amazon.DynamoDBv2.DataModel;
-using RepoBase.Abstract;
-using RepoBase.Models.Electricity;
+using Repositories.Abstract;
+using Repositories.Models.Electricity;
 
-namespace RepoBase.Concrete.Electricity;
+namespace Repositories.Concrete.Electricity;
 
 public class ElectricityPriceRepo : HashKeyOnlyRepo<PriceModel, string>
 {

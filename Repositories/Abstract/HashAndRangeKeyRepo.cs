@@ -1,7 +1,7 @@
 ﻿using Amazon.DynamoDBv2.DataModel;
 using Amazon.DynamoDBv2.DocumentModel;
 
-namespace RepoBase.Abstract;
+namespace Repositories.Abstract;
 
 public class HashAndRangeKeyRepo<T, H, R>
 {

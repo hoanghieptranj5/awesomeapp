@@ -1,5 +1,5 @@
 ﻿using AutoMapper;
-using RepoBase.Models.Hanzi;
+using Repositories.Models.Hanzi;
 using TinhTienDienApp.Controllers.Models;
 
 namespace TinhTienDienApp.Mappers;

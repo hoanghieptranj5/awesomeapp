@@ -1,7 +1,7 @@
 ﻿using Amazon.DynamoDBv2.DataModel;
 using AutoMapper;
-using RepoBase.Concrete.RoleRight;
-using RepoBase.Models.RoleRight;
+using Repositories.Concrete.RoleRight;
+using Repositories.Models.RoleRight;
 using TinhTienDienApp.Controllers.Models;
 using TinhTienDienApp.Handlers.Base;
 

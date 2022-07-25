@@ -1,4 +1,4 @@
-﻿namespace RepoBase.Models.RoleRight;
+﻿namespace Repositories.Models.RoleRight;
 
 public class CountryRole
 {

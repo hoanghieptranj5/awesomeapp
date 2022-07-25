@@ -2,7 +2,7 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TinhTienDienApp", "TinhTienDienApp\TinhTienDienApp.csproj", "{1816AEDE-7A8C-4415-A80B-04E8BE52941D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepoBase", "RepoBase\RepoBase.csproj", "{964FE873-A870-4516-A669-F3150654DB40}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repositories", "Repositories\Repositories.csproj", "{964FE873-A870-4516-A669-F3150654DB40}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

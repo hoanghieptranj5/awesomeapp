@@ -1,6 +1,6 @@
 ﻿using Amazon.DynamoDBv2.DataModel;
 
-namespace RepoBase.Abstract;
+namespace Repositories.Abstract;
 
 public class HashKeyOnlyRepo<T, H>
 {

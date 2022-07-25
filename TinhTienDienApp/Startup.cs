@@ -2,9 +2,9 @@
 using Amazon.DynamoDBv2;
 using Amazon.DynamoDBv2.DataModel;
 using Microsoft.OpenApi.Models;
-using RepoBase.Concrete.Electricity;
-using RepoBase.Concrete.Hanzi;
-using RepoBase.Concrete.RoleRight;
+using Repositories.Concrete.Electricity;
+using Repositories.Concrete.Hanzi;
+using Repositories.Concrete.RoleRight;
 using TinhTienDienApp.Handlers;
 using TinhTienDienApp.Handlers.Base;
 using TinhTienDienApp.Helper;
